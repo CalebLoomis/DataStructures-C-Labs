@@ -1,0 +1,27 @@
+RUN 1:
+=================================================
+Enter a number of lines for our input file (default 30383):
+>>> 30383
+Number of runs:
+>>> 20
+Processing...
+ +==============================+
+ | Iterative version: 0.71      |
+ | Recursive version: 1.78      |
+ +==============================+
+
+Iteration is faster by 1.07 seconds.
+
+RUN 2:
+=================================================
+Enter a number of lines for our input file (default 30383):
+>>> 50000
+Number of runs:
+>>> 20
+Processing...
+ +==============================+
+ | Iterative version: 1.17      |
+ | Recursive version: 3.11      |
+ +==============================+
+
+Iteration is faster by 1.93 seconds.
